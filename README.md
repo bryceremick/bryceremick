@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi there 👋
 
 I’m a seasoned software engineer currently working in the fitness space. 
 
